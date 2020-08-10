@@ -1,3 +1,2 @@
 #Mr-Atiq
-
-\033[1;95mbLACK-RANJJHA
+bLACK-RANJJHA
